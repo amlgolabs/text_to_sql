@@ -284,7 +284,7 @@ function App() {
             <div className="flex items-center space-x-3">
               {/* <Database className="h-8 w-8" /> */}
               <img
-                src="../../public/logo.webp"
+                src="https://amlgolabs.com/_next/image?url=%2Flogo%2Flogowhite.png&w=640&q=75"
                 className="w-48 object-cover"
                 alt="Logo"
               />
